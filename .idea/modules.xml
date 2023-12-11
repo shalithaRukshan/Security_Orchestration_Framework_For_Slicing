@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DEE/DEE/DEE.iml" filepath="$PROJECT_DIR$/DEE/DEE/DEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FME/FME/FME.iml" filepath="$PROJECT_DIR$/FME/FME/FME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SEE/SEE/SEE.iml" filepath="$PROJECT_DIR$/SEE/SEE/SEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIR/SIR/SIR.iml" filepath="$PROJECT_DIR$/SIR/SIR/SIR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SLCME/SLCME/SLCME.iml" filepath="$PROJECT_DIR$/SLCME/SLCME/SLCME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPME/SPME/SPME.iml" filepath="$PROJECT_DIR$/SPME/SPME/SPME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSDE/SSDE/SSDE.iml" filepath="$PROJECT_DIR$/SSDE/SSDE/SSDE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSME/SSME/SSME.iml" filepath="$PROJECT_DIR$/SSME/SSME/SSME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/codes.iml" filepath="$PROJECT_DIR$/.idea/codes.iml" />
+    </modules>
+  </component>
+</project>

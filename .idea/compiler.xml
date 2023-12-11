@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SEE" />
+        <module name="SPME" />
+        <module name="DEE" />
+        <module name="SSDE" />
+        <module name="SLCME" />
+        <module name="SIR" />
+        <module name="SSME" />
+        <module name="FME" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DEE" target="17" />
+      <module name="FME" target="17" />
+      <module name="SEE" target="17" />
+      <module name="SIR" target="17" />
+      <module name="SLCME" target="17" />
+      <module name="SPME" target="17" />
+      <module name="SSDE" target="17" />
+      <module name="SSME" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DEE" options="-parameters" />
+      <module name="FME" options="-parameters" />
+      <module name="SEE" options="-parameters" />
+      <module name="SIR" options="-parameters" />
+      <module name="SLCME" options="-parameters" />
+      <module name="SPME" options="-parameters" />
+      <module name="SSDE" options="-parameters" />
+      <module name="SSME" options="-parameters" />
+    </option>
+  </component>
+</project>
